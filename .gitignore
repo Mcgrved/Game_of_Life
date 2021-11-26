@@ -1,0 +1,65 @@
+# Project exclude paths
+/.gradle/
+/Game of Life/task/build/
+/Game of Life/task/out/
+/Game of Life/task/out/production/classes/
+/Topics/Abstract class/IntBinaryOperation/out/
+/Topics/Abstract class/IntBinaryOperation/out/production/classes/
+/Topics/Abstract class/Theory/out/
+/Topics/Abstract class/Theory/out/production/classes/
+/Topics/Abstract class/Users and WebSites/out/
+/Topics/Abstract class/Users and WebSites/out/production/classes/
+/Topics/Anonymous classes/String reverser/out/
+/Topics/Anonymous classes/String reverser/out/production/classes/
+/Topics/Anonymous classes/Theory/out/
+/Topics/Anonymous classes/Theory/out/production/classes/
+/Topics/Anonymous classes properties/Calculator/out/
+/Topics/Anonymous classes properties/Calculator/out/production/classes/
+/Topics/Anonymous classes properties/Create instance/out/
+/Topics/Anonymous classes properties/Create instance/out/production/classes/
+/Topics/Anonymous classes properties/Iterations/out/
+/Topics/Anonymous classes properties/Iterations/out/production/classes/
+/Topics/Anonymous classes properties/Managing a process/out/
+/Topics/Anonymous classes properties/Managing a process/out/production/classes/
+/Topics/Anonymous classes properties/Theory/out/
+/Topics/Anonymous classes properties/Theory/out/production/classes/
+/Topics/Boxing and unboxing/Safe converting/out/
+/Topics/Boxing and unboxing/Safe converting/out/production/classes/
+/Topics/Boxing and unboxing/Theory/out/
+/Topics/Boxing and unboxing/Theory/out/production/classes/
+/Topics/Comparable/Implement compareTo method/out/
+/Topics/Comparable/Implement compareTo method/out/production/classes/
+/Topics/Comparable/Implement comparing by additional fields/out/
+/Topics/Comparable/Implement comparing by additional fields/out/production/classes/
+/Topics/Comparable/Theory/out/
+/Topics/Comparable/Theory/out/production/classes/
+/Topics/Exception handling/Converting and multiplying/out/
+/Topics/Exception handling/Converting and multiplying/out/production/classes/
+/Topics/Exception handling/Theory/out/
+/Topics/Exception handling/Theory/out/production/classes/
+/Topics/Interface/Account Service/out/
+/Topics/Interface/Account Service/out/production/classes/
+/Topics/Interface/Compact strings with AsciiCharSequence/out/
+/Topics/Interface/Compact strings with AsciiCharSequence/out/production/classes/
+/Topics/Interface/Mutable geometric shapes/out/
+/Topics/Interface/Mutable geometric shapes/out/production/classes/
+/Topics/Interface/Theory/out/
+/Topics/Interface/Theory/out/production/classes/
+/Topics/Interruptions/Handling interruptions/out/
+/Topics/Interruptions/Handling interruptions/out/production/classes/
+/Topics/Interruptions/Interrupting a thread/out/
+/Topics/Interruptions/Interrupting a thread/out/production/classes/
+/Topics/Interruptions/Theory/out/
+/Topics/Interruptions/Theory/out/production/classes/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/
+/Topics/Introduction to generic programming/Pastry packing optimization/out/production/classes/
+/Topics/Introduction to generic programming/Theory/out/
+/Topics/Introduction to generic programming/Theory/out/production/classes/
+/Topics/States of a thread/Print name of TERMINATED thread/out/
+/Topics/States of a thread/Print name of TERMINATED thread/out/production/classes/
+/Topics/States of a thread/Theory/out/
+/Topics/States of a thread/Theory/out/production/classes/
+/Topics/The keyword super/Employees/out/
+/Topics/The keyword super/Employees/out/production/classes/
+/Topics/The keyword super/Theory/out/
+/Topics/The keyword super/Theory/out/production/classes/
